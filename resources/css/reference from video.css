@@ -1,0 +1,61 @@
+.navbar {
+    background-color: black;
+    position:fixed;
+    top:0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.banner {
+    background-color: darkmagenta;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-one {
+    height: 400px;
+    width: 350px;
+    filter: drop-shadow(1px 1px 1px black)
+}
+
+#one_section {
+    padding: 20px 50px;
+}
+
+#ones ul {
+    list-style-type: none;
+}
+#One {
+    color: #4d00ff;
+    font-size: 100px;
+}
+
+.avatar {
+    background-image: url("../images/IMG_3011.jpg");
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: white;
+}
+
