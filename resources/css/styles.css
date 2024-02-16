@@ -1,1 +1,52 @@
+.html {
+    background-image: url(../);
+}
 
+.main h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.navbar {
+    background-color: black;
+    position:fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.navbar li {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    list-style: decimal;
+}
+
+.navbar a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#Start h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    background-color: rgb(30, 5, 54);
+    color: white;
+    margin: auto;
+    padding: 20px 50px;
+    text-align: center;
+    position: sticky;
+    z-index: -1;
+}
+
+#Start h2{
+    background-color: rgb(44, 3, 80);
+    font-style: italic;
+    color: white;
+    margin: auto;
+    border: 10px;
+    border-color: black;
+}
